@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DBA3E742-A86C-467E-A9AC-9C019DEE244F",
+    "name": "Water",
+    "price": 129,
+    "image": "https://julba.de/school/images/6950bd51bcae53fa181715868a.jpg"
+  },
+  {
+    "id": "270D6863-8DA7-4E36-B4C3-425C01297643",
+    "name": "Some ice-cream",
+    "price": 256,
+    "image": "https://julba.de/school/images/ice.jpg"
+  },
+  {
+    "id": "388DD217-AEDB-470C-96C4-BC78CA25A0C8",
+    "name": "Egg",
+    "price": 575,
+    "image": "https://julba.de/school/images/JEtnUiv.png"
+  },
+  {
+    "id": "C69D49F2-F667-48E8-97FD-7FAC08701786",
+    "name": "Sponge",
+    "price": 899,
+    "image": "https://julba.de/school/images/005-550x550.jpg"
+  }
+]
