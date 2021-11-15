@@ -8,7 +8,7 @@ Feel free to search online or check the powerpoint if you encounter problems
 2. run `npm install`
 3. run `npm i -g @angular/cli`
 4. read [README.md](./README.md)
-5. run ng serve to start the dev server
+5. run `ng serve` to start the dev server
 
 ## First excersise
 
@@ -31,4 +31,4 @@ Feel free to search online or check the powerpoint if you encounter problems
 ## Second excersise
 
 1. Follow the steps above to create a new `products` module and component (You may use the CLI)
-2. Display the contents of the products.json file using angular directives
+2. Display the contents of the `products.json` file using angular directives
