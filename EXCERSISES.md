@@ -5,9 +5,10 @@ Feel free to search online or check the powerpoint if you encounter problems
 ## Setup
 
 1. install NodeJS and clone this Repo
-2. run npm install
-3. read [README.md](./README.md)
-4. run ng serve to start the dev server
+2. run `npm install`
+3. run `npm i -g @angular/cli`
+4. read [README.md](./README.md)
+5. run ng serve to start the dev server
 
 ## First excersise
 
