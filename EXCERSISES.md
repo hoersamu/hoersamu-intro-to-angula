@@ -32,3 +32,4 @@ Feel free to search online or check the powerpoint if you encounter problems
 
 1. Follow the steps above to create a new `products` module and component (You may use the CLI)
 2. Display the contents of the `products.json` file using angular directives
+3. To load data from the product.json use `import products from '../../assets/products.json'`
